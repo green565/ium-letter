@@ -1,0 +1,7 @@
+GitHub Pages deployment: repository name must be ium-letter.
+1. Extract this ZIP.
+2. Drag all files AND folders into GitHub repository upload area; preserve app/, assets/, vendor/.
+3. Confirm index.html is in repository root and app/router.js exists.
+4. Commit changes. Settings > Pages > Deploy from a branch > main > /(root).
+Expected URL: https://green565.github.io/ium-letter/
+This is a static demo; backend/AI services may require separate deployment.
